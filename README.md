@@ -1,4 +1,4 @@
-# gatsby-plugin-emotion
+# gatsby-plugin-core-js
 
 Polyfill gatsby with core-js
 
@@ -7,5 +7,5 @@ Polyfill gatsby with core-js
 Add the plugin to your `gatsby-config.js`.
 
 ```js
-plugins: ["gatsby-plugin-core-js"];
+plugins: ['gatsby-plugin-core-js'];
 ```
