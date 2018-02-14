@@ -1,0 +1,11 @@
+{
+  "name": "gatsby-plugin-core-js",
+  "version": "1.0.0",
+  "description": "Polyfill gatsby with core-js",
+  "main": "index.js",
+  "author": "Lloyd Hobden <lloydh@bluewaterweb.co.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "core-js": "^2.5.3"
+  }
+}
