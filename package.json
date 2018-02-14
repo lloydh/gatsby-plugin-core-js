@@ -5,6 +5,11 @@
   "main": "index.js",
   "author": "Lloyd Hobden <lloydh@bluewaterweb.co.uk>",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lloydh/gatsby-plugin-core-js/issues"
+  },
+  "homepage": "https://github.com/Creatiwity/gatsby-plugin-core-js#readme",
+  "readme": "README.md",
   "dependencies": {
     "core-js": "^2.5.3"
   },
