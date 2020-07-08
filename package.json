@@ -15,6 +15,7 @@
   "homepage": "https://github.com/Creatiwity/gatsby-plugin-core-js#readme",
   "keywords": [
     "gatsby",
+    "gatsby-plugin",
     "polyfill",
     "core-js"
   ],
